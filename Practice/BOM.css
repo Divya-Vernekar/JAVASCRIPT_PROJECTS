@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+/* .container{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    
+/* }  */
+input{
+    height: 200px;
+    width: 200px;
+    background-color: plum;
+    border: 2px solid grey;
+    border-radius: 50px;
+}
